@@ -40,9 +40,30 @@
 - [Laravel Actions](https://github.com/lorisleiva/laravel-actions) `lorisleiva/laravel-actions`
 
 ### Filament Requirements
-- 
+- [Filament Notification](https://filamentphp.com/docs/2.x/notifications/installation) `filament/notification`
+- [Filament Exception Viewer](https://github.com/bezhanSalleh/filament-exceptions) `bezhansalleh/filament-exceptions`
+- [Filament Flatpickr](https://filamentphp.com/plugins/flatpickr) `savannabits/filament-flatpickr`
+- [Filament Gravatar](https://github.com/awcodes/filament-gravatar) `awcodes/filament-gravatar`
 
 ### Filament Optional
+- [Rating Field](https://github.com/yepsua/filament-rating-field) `yepsua/filament-rating-field`
+- [Filament Sitemap](https://github.com/3x1io/filament-sitemap) `3x1io/filament-sitemap`
+- [Spatie Laravel Settings Plugin](https://filamentphp.com/docs/2.x/spatie-laravel-settings-plugin/installation) `filament/spatie-laravel-settings-plugin`
+- [Filament Theme Manager](https://github.com/3x1io/filament-themes) `3x1io/filament-themes`
+- [Spatie Tags](https://filamentphp.com/docs/2.x/spatie-laravel-tags-plugin/installation) `filament/spatie-laravel-tags-plugin`
+- [Static Asset Handler](https://filamentphp.com/plugins/static-asset-handler) `filament:cache-assets`
+- [Filament Static Stats Widget](https://github.com/jonquihote/filament-static-chart-widgets) `jonquihote/filament-static-chart-widgets`
+- [Static Chart Widgets](https://filamentphp.com/plugins/static-chart-widgets) `jonquihote/filament-static-chart-widgets`
+- [Themes](https://filamentphp.com/plugins/3x1io-themes) `3x1io/filament-themes`
+- [Filament User Resource](https://github.com/3x1io/filament-user) `3x1io/filament-user`
+- [Theme Color Switcher](https://github.com/uccellolabs/filament-theme-color) `uccellolabs/filament-theme-color`
+- [Settings](https://filamentphp.com/docs/2.x/spatie-laravel-settings-plugin/installation) `filament/spatie-laravel-settings-plugin`
+- [Spatie Markdown Editor](https://github.com/spatie/filament-markdown-editor) `spatie/filament-markdown-editor`
+- [Spatie Health](https://github.com/shuvroroy/filament-spatie-laravel-health) `shuvroroy/filament-spatie-laravel-health`
+- [Profile](https://github.com/ryangjchandler/filament-profile) `ryangjchandler/filament-profile`
+- [Filament Language(Locale) Switcher](https://github.com/bezhanSalleh/filament-language-switch) `bezhansalleh/filament-language-switch`
+- [Filament Menus](https://github.com/3x1io/filament-menus) `3x1io/filament-menus`
+
 - https://github.com/rgasch/filament-extended-starter-kit
 - https://github.com/devtical/filament-sanctum
 - https://github.com/TappNetwork/filament-auditing
@@ -123,6 +144,7 @@
 - https://filamentphp.com/plugins/multi-widget
 - https://github.com/solutionforest/filament-firewall
 - https://github.com/Z3d0X/filament-logger
+- https://github.com/reworck/filament-settings
 
 ## Setup
 ```shell
